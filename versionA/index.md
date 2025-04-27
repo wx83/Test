@@ -15,7 +15,7 @@ Note: Please select Version A on the first question of the survery. Thanks!
     <td>
 <video width="320" height="240" controls>
   <source
-    src="https://wx83.github.io/SubjectiveStudy/versionA/-A8qdoRJbPI/gpt_cite_nn.mp4"
+    src="https://wx83.github.io/Test/versionA/-A8qdoRJbPI/gpt_cite_nn.mp4"
     type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
